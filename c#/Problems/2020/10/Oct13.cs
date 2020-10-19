@@ -8,7 +8,7 @@ namespace LeetCode.Challenge
   /// <summary>
   ///    https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/
   ///    https://leetcode.com/submissions/detail/408149016/?from=/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/
-  ///	</summary>
+  /// </summary>
   internal class Oct13
   {
     /**/

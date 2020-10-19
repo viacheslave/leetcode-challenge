@@ -8,7 +8,7 @@ namespace LeetCode.Challenge
   /// <summary>
   ///    https://leetcode.com/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/
   ///    https://leetcode.com/submissions/detail/403015981/?from=/explore/featured/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/
-  ///	</summary>
+  /// </summary>
   internal class Oct01
   {
     public class RecentCounter

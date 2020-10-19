@@ -8,7 +8,7 @@ namespace LeetCode.September.Challenge.Problems
   /// <summary>
   ///    https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3469/
   ///    https://leetcode.com/submissions/detail/399098391/?from=/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3469/  
-  ///	</summary>
+  /// </summary>
   internal class Sep22
   {
     public class Solution
