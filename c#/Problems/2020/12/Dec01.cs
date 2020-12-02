@@ -6,7 +6,7 @@ using System.Text;
 namespace LeetCode.Challenge
 {
   /// <summary>
-  ///    https://leetcode.com/explore/featured/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/
+  ///    https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3551/
   ///    https://leetcode.com/submissions/detail/426007722/?from=/explore/featured/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3551/
   /// </summary>
   internal class Dec01
