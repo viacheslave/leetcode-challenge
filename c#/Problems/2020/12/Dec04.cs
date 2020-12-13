@@ -1,5 +1,3 @@
-﻿using System.Collections.Generic;
-
 namespace LeetCode.Challenge
 {
   /// <summary>
