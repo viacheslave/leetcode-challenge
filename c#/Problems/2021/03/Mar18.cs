@@ -6,7 +6,7 @@ using System.Text;
 namespace LeetCode.Challenge.Y21
 {
   /// <summary>
-  ///   https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3676/
+  ///   https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-3-march-15th-march-21st/3676/
   ///   
   /// </summary>
   internal class Mar18
