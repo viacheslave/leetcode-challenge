@@ -1,4 +1,4 @@
-package com.challenge.leetcode;
+package com.challenge.leetcode.twentyone;
 
 public class Main {
     public static void main(String[] args) {

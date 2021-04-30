@@ -1,4 +1,4 @@
-package com.challenge.leetcode;
+package com.challenge.leetcode.twentyone;
 
 import java.util.Collections;
 import java.util.HashMap;

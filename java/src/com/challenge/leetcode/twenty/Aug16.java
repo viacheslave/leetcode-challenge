@@ -1,4 +1,4 @@
-package com.challenge.leetcode;
+package com.challenge.leetcode.twenty;
 
 /*
  * Problem: https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3426/
