@@ -1,3 +1,6 @@
-# LeetCode Challenge solutions
+# Some LeetCode Challenge solutions
 
-### C#, Java
+## Langs
+- C#
+- Java
+- SQL
